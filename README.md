@@ -1,4 +1,4 @@
-#Graph Theory - GMIT Timetable:
+# Graph Theory - GMIT Timetable:
 This is a time tabling system that displays relievent information for Software Development and Digital Media courses.
 
 This can be used to display data like rooms,modules,course codes etc.
