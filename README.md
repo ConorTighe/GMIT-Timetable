@@ -19,6 +19,6 @@ The Noe4j database is stored in a .zip folder inside the Graph Theory project fo
 
 ![alt text](alldb.png "GMIT Timetable Overview")
 ---
-![alt text](db1.png "GMIT Timetable Overview")
+![alt text](db1.png "GMIT Timetable nodes")
 ---
-![alt text](db2db.png "GMIT Timetable Overview")
+![alt text](db2.png "More nodes")
