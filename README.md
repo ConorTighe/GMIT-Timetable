@@ -8,9 +8,17 @@ The Noe4j database is stored in a .zip folder inside the Graph Theory project fo
 2. Technologies Used.
 3. Planning and architecture.
 4. Extracting data.
-5. Creating the database:
+5. Developmetal stage:
 6. Testing the database.
 7. Known Bugs and design flaws.
-8. Conclusion.
+8. Final Build.
+9. Conclusion.
+10. References.
 
-![alt text](db.png "GMIT Timetable")
+## Graph database images:
+
+![alt text](alldb.png "GMIT Timetable Overview")
+---
+![alt text](db1.png "GMIT Timetable Overview")
+---
+![alt text](db2db.png "GMIT Timetable Overview")
