@@ -1,7 +1,7 @@
 # Graph Theory - GMIT Timetable:
-This is a time tabling system that displays relievent information for Software Development and Digital Media courses.
+This is a time tabling system that displays relievent information for semester 2 of the Software Development and Digital Media courses in GMIT.
 
-The Noe4j database is stored in a .zip folder inside the Graph Theory project folder along with the documentation, other relivent files like the CSV files, documentation or the web crawler program are placed outside.
+The Neo4j database is stored in a .zip folder inside the Graph Theory project folder along with the documentation, other relivent files like the CSV files, documentation or the web crawler program are placed outside. A example html of the html source used to extracted the data is included too.
 
 ## Documentation headers:
 1. Introduction.
